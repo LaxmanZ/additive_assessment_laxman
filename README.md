@@ -2,10 +2,6 @@
 
 This repository contains C++ solutions to a variety of common technical interview questions and algorithmic challenges.
 
-> Note: I have referred to some online resources (mainly GeeksforGeeks and Educative.io) for logic understanding.
-
----
-
 ## 📄 List of Implemented Questions
 
 ### 1. ✅ String Compression and Decompression
